@@ -3,8 +3,12 @@
 
 
 int main(){
+	printf("hhhhhhhhhhhhhh");
+	printf("hhhhhhhhhhhhhh");
+
+	
 
 
-	printf("哈哈哈哈哈哈哈哈哈哈")；
+
 	return 0;
 }
