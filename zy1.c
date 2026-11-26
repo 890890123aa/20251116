@@ -29,7 +29,7 @@ int main(void)
     copy_ptr=ptr;
 
     regex_t preg;
-    char *regex_str = "<a[^>]+href=\"([^\"]+)\"[^>]*>([^<]+)</a >";
+    char *regex_str = "<a[^>]+href=\"([^\"]+)\"[^>]*>([^<]+)</a>";
     size_t nmatch=3;
     regmatch_t pmatch[nmatch];
     char one[1024];
